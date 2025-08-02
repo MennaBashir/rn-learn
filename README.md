@@ -1,16 +1,15 @@
-# Expo Router and Tailwind CSS
+## Learn React Native with apply more practices
 
-Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](https://www.nativewind.dev/v4/overview/) styling.
-
-## 🚀 How to use
-
-```sh
+- This repository is designed to help you learn React Native by applying more practices. It includes various components and features that you can explore and modify.
+- The code is structured to provide a clear understanding of how React Native works, with examples of components, navigation, and styling.
+- Feel free to clone the repository and start experimenting with the code to enhance your learning experience.
+- Happy coding!
+- install using this command
+```bash
 npx create-expo-app -e with-tailwindcss
-```
-
-## Deploy
-
-Deploy on all platforms with Expo Application Services (EAS).
-
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
+- then run the app using
+```bash
+cd my-app
+npm start
+``` 
+- This will start the development server and open the Expo Go app on your device or emulator.
