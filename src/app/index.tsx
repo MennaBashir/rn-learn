@@ -10,6 +10,8 @@ export default function Page() {
           <Text className="text-center text-3xl font-semibold ">Home Page</Text>
         </View>
         <Link href="/flatList">FlatList</Link>
+        <Link href="/virtualList">VirtualList</Link>
+        <Link href="/sectionList">SectionList</Link>
       </SafeAreaView>
     </SafeAreaProvider>
   );
